@@ -1,0 +1,11 @@
+{
+  "dataset": "M3FD",
+  "scenario": "ir_clean_vi_blur",
+  "ir_degs": [],
+  "vi_degs": [
+    "vi_blur"
+  ],
+  "source_ir_dir": "F:\\image fusion learn\\IVF数据集\\测试集\\M3FD\\ir",
+  "source_vi_dir": "F:\\image fusion learn\\IVF数据集\\测试集\\M3FD\\vi",
+  "num_images": 100
+}
