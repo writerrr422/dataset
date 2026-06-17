@@ -1,0 +1,73 @@
+[
+  {
+    "dataset": "RoadScene",
+    "scenario": "ir_lowcontrast_vi_clean",
+    "ir_degs": [
+      "ir_lowcontrast"
+    ],
+    "vi_degs": [],
+    "source_ir_dir": "F:\\image fusion learn\\IVF数据集\\测试集\\RoadScene\\ir",
+    "source_vi_dir": "F:\\image fusion learn\\IVF数据集\\测试集\\RoadScene\\vi",
+    "num_images": 50
+  },
+  {
+    "dataset": "RoadScene",
+    "scenario": "ir_stripnoise_vi_lowlight",
+    "ir_degs": [
+      "ir_stripnoise"
+    ],
+    "vi_degs": [
+      "vi_lowlight"
+    ],
+    "source_ir_dir": "F:\\image fusion learn\\IVF数据集\\测试集\\RoadScene\\ir",
+    "source_vi_dir": "F:\\image fusion learn\\IVF数据集\\测试集\\RoadScene\\vi",
+    "num_images": 50
+  },
+  {
+    "dataset": "M3FD",
+    "scenario": "ir_clean_vi_blur",
+    "ir_degs": [],
+    "vi_degs": [
+      "vi_blur"
+    ],
+    "source_ir_dir": "F:\\image fusion learn\\IVF数据集\\测试集\\M3FD\\ir",
+    "source_vi_dir": "F:\\image fusion learn\\IVF数据集\\测试集\\M3FD\\vi",
+    "num_images": 100
+  },
+  {
+    "dataset": "M3FD",
+    "scenario": "ir_clean_vi_rain_haze",
+    "ir_degs": [],
+    "vi_degs": [
+      "vi_rain",
+      "vi_haze"
+    ],
+    "source_ir_dir": "F:\\image fusion learn\\IVF数据集\\测试集\\M3FD\\ir",
+    "source_vi_dir": "F:\\image fusion learn\\IVF数据集\\测试集\\M3FD\\vi",
+    "num_images": 100
+  },
+  {
+    "dataset": "MSRS",
+    "scenario": "ir_clean_vi_haze",
+    "ir_degs": [],
+    "vi_degs": [
+      "vi_haze"
+    ],
+    "source_ir_dir": "F:\\image fusion learn\\IVF数据集\\测试集\\MSRS\\ir",
+    "source_vi_dir": "F:\\image fusion learn\\IVF数据集\\测试集\\MSRS\\vi",
+    "num_images": 361
+  },
+  {
+    "dataset": "MSRS",
+    "scenario": "ir_noise_vi_lowlight",
+    "ir_degs": [
+      "ir_noise"
+    ],
+    "vi_degs": [
+      "vi_lowlight"
+    ],
+    "source_ir_dir": "F:\\image fusion learn\\IVF数据集\\测试集\\MSRS\\ir",
+    "source_vi_dir": "F:\\image fusion learn\\IVF数据集\\测试集\\MSRS\\vi",
+    "num_images": 361
+  }
+]

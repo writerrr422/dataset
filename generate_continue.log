@@ -1,0 +1,7 @@
+[GenerateBenchmark] RoadScene/ir_lowcontrast_vi_clean: 50 images -> degraded_benchmark\RoadScene\ir_lowcontrast_vi_clean
+[GenerateBenchmark] RoadScene/ir_stripnoise_vi_lowlight: 50 images -> degraded_benchmark\RoadScene\ir_stripnoise_vi_lowlight
+[GenerateBenchmark] M3FD/ir_clean_vi_blur: 100 images -> degraded_benchmark\M3FD\ir_clean_vi_blur
+[GenerateBenchmark] M3FD/ir_clean_vi_rain_haze: 100 images -> degraded_benchmark\M3FD\ir_clean_vi_rain_haze
+[GenerateBenchmark] MSRS/ir_clean_vi_haze: 361 images -> degraded_benchmark\MSRS\ir_clean_vi_haze
+[GenerateBenchmark] MSRS/ir_noise_vi_lowlight: 361 images -> degraded_benchmark\MSRS\ir_noise_vi_lowlight
+[GenerateBenchmark] done: degraded_benchmark
